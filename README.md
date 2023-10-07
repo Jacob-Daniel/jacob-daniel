@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 <p>I am currently available for work, I am particular interested in *coding for good* - ethical organisations and projects.</p>
 <p>My Skills include: PHP/MYSQL/HTML/CSS/ - JS/TS/REACT/NEXTJS.</p>
 <p>Please do get in touch.</p>
+
+[jacobdaniel.co.uk](https://jacobdaniel.co.uk)
