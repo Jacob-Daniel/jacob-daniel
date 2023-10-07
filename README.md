@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>I have 15yrs experience building web applicaitions from the ground up. I love what I do and I am dedicated to deliving great work and greatend products.</p>
+<p>I have 15yrs experience building web applicaitions from the ground up. I love what I do and I am dedicated to deliving great work and end products.</p>
 <p>I am currently interested in and an early adopter of PWAs, implementing and striving to create SPA experience for websites and applications running in the browser. The development of the many open-source JS frameworks have provided a real jump in my development practices, which since my outset of hand coding everything have been to adopt best practices. I am currently working with React/ Next.js and loving the fine grain optimisation technology and methodology, though am truly excited about Vue, Svelt ... the general JAMSTACK environment.</p>
 <p>I have early years experience of building bespoke Wordpress applications but transitioned to working with a custom PHP/MYSQL system developed over time, providing clients with their own bespoke CMS.  I have welcomed the Wordpress Headless API, applying its use for a small e-commerce project.</p>
 <p>I will be making more of my work public, I have circa 20 private projects which show a fair bit more activity, this can be viewed on request though :)</p>
