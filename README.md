@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p>I have early years experience of building bespoke Wordpress applications but transitioned to working with a custom PHP/MYSQL system developed over time, providing clients with their own bespoke CMS.  I have welcomed the Wordpress Headless API, applying its use for a small e-commerce project.</p>
 <p>I will be making more of my work public, I have circa 20 private projects which show a fair bit more activity, this can be viewed on request though :)</p>
 <p>I am currently available for work, I am particular interested in *coding for good* - ethical organisations and projects.</p>
-<p>My Skills include: PHP/MYSQL/HTML/CSS/ - JS/TS/REACT/NEXTJS.</p>
-<p>Please do get in touch.</p>
+<p>Skills include: PHP/MYSQL/HTML/CSS/ - JS/TS/REACT/NEXTJS.</p>
+<p>Thanks and please do get in touch!</p>
 
 [jacobdaniel.co.uk](https://jacobdaniel.co.uk)
