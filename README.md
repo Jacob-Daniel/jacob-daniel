@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>I am currently interested in and an early adopter of PWAs, implementing and striving for SPA experience for websites and applications running in the browser.</p>
+<p>I have early years experience of building bespoke Wordpress applications but transitioned to working with custom system PHP/MYSQL system developed over time.  Recently I have welcomed the Wordpress Headless CMS using their API for an E-commerce project.</p>
 <p>I will be making more of my work public, I have circa 20 private projects which show a fair bit more activity, this can be viewed on request though :)</p>
 <p>I am currently available for work, I am particular interested in *coding for good* - ethical organisations and projects.</p>
-<p>Please get in touch even if just to say hi.</p>
+<p>My Skills include: PHP/MYSQL/HTML/CSS/ - JS/TS/REACT/NEXTJS.</p>
+<p>Please do get in touch.</p>
