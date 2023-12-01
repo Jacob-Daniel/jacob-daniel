@@ -14,12 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>I have 15yrs experience building web applicaitions from the ground up. I love what I do and I am dedicated to deliving great work and end products.</p>
-<p>I am currently interested in and an early adopter of PWAs, implementing and striving to create SPA experience for websites and applications running in the browser. The development of the many open-source JS frameworks have provided a real jump in my development practices, which since my outset of hand coding everything have been to adopt best practices. I am currently working with React/ Next.js and loving the fine grain optimisation technology and methodology, though am truly excited about Vue, Svelt ... the general JAMSTACK environment.</p>
-<p>I have early years experience of building bespoke Wordpress applications but transitioned to working with a custom PHP/MYSQL system developed over time, providing clients with their own bespoke CMS.  I have welcomed the Wordpress Headless API, applying its use for a small e-commerce project.</p>
-<p>I will be making more of my work public, I have circa 20 private projects which show a fair bit more activity, this can be viewed on request though :)</p>
-<p>I am currently available for work, I am particular interested in *coding for good* - ethical organisations and projects.</p>
-<p>Skills include: PHP/MYSQL/HTML/CSS/ - JS/TS/REACT/NEXTJS.</p>
-<p>Thanks and please do get in touch!</p>
+<p>I am a mid-level full-stack developer with 15yrs experience building websites and web applications from the ground up. I love what I do and I am dedicated to delivering great work.</p>
+
+<p>I am interested in and an early adopter of Progressive Web Apps, striving to create Single Page Application functionality for Multi Page Web Applications running in the browser.</p>
+
+<p>I am currently upgrading a legacy Wordpress website to a Wordpress Headless CMS for a small book publisher. The new website will have a decoupled front-end built with Next.js and use WPGraphQL to do the data fetching from the server.</p>
+
+<p>I am particular interested in *coding for good*.</p>
+<p>I work with PHP, MYSQL, HTML, CSS, Javascript, Typescript, React, Nextjs, Graphql, Bash Scripting, Github, Tailwind CSS, Bootstrap.</p>
+
+<p>Thanks</p>
 
 [jacobdaniel.co.uk](https://jacobdaniel.co.uk)
