@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 -->
 <p>I am a mid-level full-stack developer with 15yrs experience building websites and web applications from the ground up. I love what I do and I am dedicated to delivering great work.</p>
 
-<p>I am interested in and an early adopter of Progressive Web Apps, striving to create Single Page Application functionality for Multi Page Web Applications running in the browser.</p>
+<p>I have recently converted a legacy Wordpress site to a Wordpress Headless CMS with Next.js, WPgraphql and Tailwind CSS for an independent book publisher. The back-end db has admin generated data from WPGraphQL enabled Custom Fields, custom Graphql Fields and Objects Types - providing the front-end single API endpoints.</p>
 
-<p>I am currently upgrading a legacy Wordpress website to a Wordpress Headless CMS for a small book publisher. The new website will have a decoupled front-end built with Next.js and use WPGraphQL to do the data fetching from the server.</p>
+<p>I work with PHP, MYSQL, HTML, CSS, JavaScript, Typescript, React, Nextjs, Graphql, Bash Scripting, Github, Tailwind CSS and Bootstrap.</p>
+<p>I do my best to keep up and learn new things ... I believe in continually practising the basics in order to advance. I am excited about Deno, Svelt, HTMX, PWAs and Web 3.0 technologies.</p>
 
-<p>I am particular interested in *coding for good*.</p>
-<p>I work with PHP, MYSQL, HTML, CSS, Javascript, Typescript, React, Nextjs, Graphql, Bash Scripting, Github, Tailwind CSS, Bootstrap.</p>
+<p>I am interested in *tech for good* and have volunteered my tech skills to a successful campaign to save a local Library - and featured a mapping App on Channel 4 News.</p>
+<p>I live in London and have two lovely young children.</p>
 
-<p>Thanks</p>
+<p>Please do say Hi,<br />Thanks</p>
 
 [jacobdaniel.co.uk](https://jacobdaniel.co.uk)
