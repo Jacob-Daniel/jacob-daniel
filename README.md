@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <p>I am a (mostly) self-taught, mid-level full-stack developer with 15yrs experience building websites and web applications from the ground up. I love what I do and I am dedicated to delivering great work.</p>
 
-<p>I recently enjoyed converting a legacy Wordpress site to a Wordpress Headless CMS with Next.js, WPgraphql and Tailwind CSS for an independent book publisher. I used WPGraphQL enabled Custom Fields, custom Graphql Fields and Objects Types to create admin content interfaces and tailored GraphiQL IDE to create database queries producing highly efficient front-end single API endpoints.</p>
+<p>I recently enjoyed converting a legacy Wordpress site to a Wordpress Headless CMS with Next.js, WPGraphQL and Tailwind CSS for an independent book publisher. I used WPGraphQL enabled Custom Fields, custom Graphql Fields and Objects Types to create admin content interfaces and tailored GraphiQL IDE to create database queries producing highly efficient front-end single API endpoints.</p>
 
 <p>I work with PHP, MYSQL, HTML, CSS, JavaScript, Typescript, React, Nextjs, Graphql, Bash Scripting, Github, Tailwind CSS and have used many libraries and tools along the way in the projects I have been involved in.</p>
 <p>I do my best to keep up and learn new things ... I believe in continually practising the basics in order to advance. I am excited about Deno, Svelt, HTMX, PWAs and Web 3.0 technologies.</p>
