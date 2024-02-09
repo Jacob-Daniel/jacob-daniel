@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 <p>I am interested in *tech for good* and have volunteered my skills to a successful campaign to save a local Library - featuring a mapping App on Channel 4 News.</p>
 <p>I live in London and have two lovely young children.</p>
 
-<p>Please do say Hi,<br />Thanks</p>
+<p>Please do say hello,<br />Thanks</p>
 
 [jacobdaniel.co.uk](https://jacobdaniel.co.uk)
