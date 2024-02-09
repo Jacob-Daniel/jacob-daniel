@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p>I recently enjoyed converting a legacy Wordpress site to a Wordpress Headless CMS with Next.js, WPgraphql and Tailwind CSS for an independent book publisher. I used WPGraphQL enabled Custom Fields, custom Graphql Fields and Objects Types to create admin content interfaces and tailored GraphiQL IDE to create database queries producing highly efficient front-end single API endpoints.</p>
 
-<p>I work with PHP, MYSQL, HTML, CSS, JavaScript, Typescript, React, Nextjs, Graphql, Bash Scripting, Github, Tailwind CSS and Bootstrap.</p>
+<p>I work with PHP, MYSQL, HTML, CSS, JavaScript, Typescript, React, Nextjs, Graphql, Bash Scripting, Github, Tailwind CSS and have used many libraries and tools along the way in the projects I have been involved in.</p>
 <p>I do my best to keep up and learn new things ... I believe in continually practising the basics in order to advance. I am excited about Deno, Svelt, HTMX, PWAs and Web 3.0 technologies.</p>
 
 <p>I am interested in *tech for good* and have volunteered my skills to a successful campaign to save a local Library - featuring a mapping App on Channel 4 News.</p>
