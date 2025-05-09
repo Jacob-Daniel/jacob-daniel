@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>I have over 20 years of experience building bespoke web applications from the ground up. I attened City Lit web development courses in HTML, CSS, PHP, MySQL, and JavaScript in 2013. I’ve had the privilege of working alongside experts in design and programming who mentors during initial years.</p>
-
-<p>I have a strong foundation in traditional web development, working independently with clients and designers on both front-end and back-end projects. My expertise spans modern development practices across a variety of environments, including WordPress and Drupal as headless CMS platforms, as well as Node.js with Strapi CMS, React, and Next.js.</p>
-
-<p>Early in my career, I collaborated with a former lead designer at Pentagram Design Consultancy, honing iterative design processes for clients in private, public, and non-profit sectors. I also contributed to a codebase developed by JL Development, extending bespoke CMS solutions and cloud-based POS systems.</p>
+<p>Freelance Web Developer based in London, with 20 yrs experience.</p>
 
 <p><b>Recent projects</b> <br/>
 Campsite booking website. 
@@ -28,7 +24,7 @@ Independent London Coffee Shop website.
 Umbrella Community Organisation website. 
 </p>
 
-<p>Outside of work, I’ve volunteered my tech skills for social justice campaigns, having a mapping featured on Channel 4 News. I am a father to two wonderful young children.</p>
+<p>Feel free to say hi!</p>
 
 
 [jacobdaniel.co.uk](https://jacobdaniel.co.uk)
